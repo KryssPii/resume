@@ -41,6 +41,7 @@ export const resumeConfig: ResumeConfig = {
         { name: 'CSS' },
         { name: 'SQL' },
         { name: 'Java' },
+        { name: 'PHP' },
       ],
     },
     {
